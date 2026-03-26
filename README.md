@@ -25,7 +25,7 @@ The star schema consists of two fact tables and dimension tables:
 
 ## Star Schema 
 The diagram of the star schema can be found below
-![Star Schema](star_schema.jpg)
+![Star Schema](star_schema.JPG)
 
 ## Key Findings
 - Clayton branch generated the highest revenue ($2.77M) and 93 units sold.
