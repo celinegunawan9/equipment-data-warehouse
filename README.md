@@ -3,7 +3,7 @@
 ## Project Overview
 This project implements star schema data warehouse for equipment sales and rental analytics using SQL, through data cleaning, data modelling, with the aim to extract business insights.
 
-## Technologies 
+## Tech Stack
 - SQL
 - Data Warehouse (Star Schema)
 - Dimensional Modelling
@@ -28,7 +28,7 @@ The diagram of the star schema can be found below
 ![Star Schema](star_schema.JPG)
 
 ## Key Findings
-- Clayton branch generated the highest revenue ($2.77M) and 93 units sold.
+- Clayton branch generated the highest revenue ($2.77M), nearly 48% higher than the next branch. 
 - Equipment hire demand peaks during cooler seasons (Spring and Winter).
 - Sales revenue shows a steady increasing trend.
 - Business customers hire more frequently and in larger quantities than individuals.
